@@ -1,18 +1,18 @@
-### Descripción: 
+# Descripción: 
 ¡Bienvenido a mi portafolio! Soy Eliana, una apasionada Analista de Datos, Científico de Datos y Especialista en Business Intelligence. Mi objetivo es transformar datos en conocimientos significativos y soluciones impactantes.
 
 ## 🚀 Lo que encontrarás aquí:
 
-* # *Proyectos Innovadores:*
+* ### *Proyectos Innovadores:*
 Explora mis proyectos en los que aplicó técnicas avanzadas de análisis de datos y aprendizaje automático para resolver desafíos del mundo real.
 
-* # *Educación y Certificaciones:*
+* ### *Educación y Certificaciones:*
 Descubre mi sólida formación académica y las certificaciones que respaldan mis habilidades.
 
-* # *Habilidades Clave:*
+* ### *Habilidades Clave:*
 Conoce las habilidades que me destacan en el campo, desde análisis exploratorio de datos hasta creación de paneles interactivos de BI.
 
-* # *Sobre Mí:*
+* ### *Sobre Mí:*
 Obtén un vistazo personal de mi trayectoria, experiencias y lo que me impulsa en el mundo del análisis de datos.
 
 ## 📊 Mis logros hasta ahora:
