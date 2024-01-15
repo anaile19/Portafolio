@@ -17,16 +17,18 @@ Obtén un vistazo personal de mi trayectoria, experiencias y lo que me impulsa e
 
 ## 📊 Mis logros hasta ahora:
 
-Implementé soluciones de BI que optimizaron la toma de decisiones y mejoraron la eficiencia operativa.
-Colaboré en proyectos de ciencia de datos que generaron insights estratégicos para la toma de decisiones empresariales.
-Participé activamente en comunidades de datos, compartiendo conocimientos y aprendiendo de otros profesionales.
++ Mi experiencia se basa en más de 6 años de trabajo en roles relacionados con la estadística y el análisis de datos.
++ He liderado proyectos donde la extracción de datos era esencial para construir indicadores clave de desempeño (KPI) y proporcionar información valiosa para la toma de decisiones.
++ Implementé procesamientos de registros con automatizaciones en Looker Studio y App Script. Esta iniciativa no solo mejoró significativamente la eficiencia en la gestión de datos, sino que también optimizó la extracción de información clave para el seguimiento y la evaluación.
++ He propuesto metodologías y modelos para identificar, medir y reportar el riesgo de crédito. Esto implicó la extracción y procesamiento de datos para evaluar cambios en el riesgo, así como la actualización de la documentación de sistemas de riesgo para mejorar el seguimiento de cartera.
++ Participé activamente en comunidades de datos, compartiendo conocimientos y aprendiendo de otros profesionales.
 
 ## 💡 Mi enfoque: 
 Cada proyecto es una oportunidad para aprender y crecer. Creo en la narrativa de los datos y la capacidad de estos para impulsar decisiones informadas. ¿Listo para explorar el mundo de los datos conmigo?
 
 ## 📫 ¡Conéctate conmigo!
 
-LinkedIn: www.linkedin.com/in/salabori 
-GitHub: 
+* LinkedIn: www.linkedin.com/in/salabori 
+* GitHub: 
 
 ¡Espero que disfrutes explorando mi trabajo y descubriendo cómo los datos pueden contar historias impactantes!
