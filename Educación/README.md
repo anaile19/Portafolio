@@ -1,4 +1,6 @@
-                                                            # Educación
+  image: ![](C:\Users\51922\Downloads) 
+  
+                                                              # Educación
 
 #Estadístico  
 *marzo 2001 - octubre 2008*
