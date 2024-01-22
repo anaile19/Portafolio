@@ -1,4 +1,4 @@
-                                                            # Educación
+                                                            ###Educación
 
 #Estadístico  
 *marzo 2001 - octubre 2008*
