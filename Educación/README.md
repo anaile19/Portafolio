@@ -1,7 +1,7 @@
                                                             # Educación
 
-#Estadístico  
-*marzo 2001 - octubre 2008*
+## Estadístico  
+*marzo 2001 - octubre 2008*       
 ##**Universidad de Oriente Núcleo de Nueva Esparta-Venezuela**
 
 *Un Licenciado en Estadística es un profesional con una formación académica sólida
