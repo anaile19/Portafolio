@@ -19,4 +19,4 @@ de conocimiento basado en evidencia y en la solución de problemas complejos a t
 del análisis estadístico*
 
 
-
+La locura 
