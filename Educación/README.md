@@ -1,34 +1,81 @@
-# Descripción: 
-¡Bienvenido a mi portafolio! Soy Eliana, una apasionada Analista de Datos, Científico de Datos y Especialista en Business Intelligence. Mi objetivo es transformar datos en conocimientos significativos y soluciones impactantes.
+---
+title: "Educación"
+output: word_document
+---
 
-## 🚀 Lo que encontrarás aquí:
 
-* ### *Proyectos Innovadores:*
-Explora mis proyectos en los que aplicó técnicas avanzadas de análisis de datos y aprendizaje automático para resolver desafíos del mundo real.
+<div class="aligncenter"> 
+![](Portafolio/Educación/Educación/Imgs/pngegg.png)
 
-* ### *Educación y Certificaciones:*
-Descubre mi sólida formación académica y las certificaciones que respaldan mis habilidades.
 
-* ### *Habilidades Clave:*
-Conoce las habilidades que me destacan en el campo, desde análisis exploratorio de datos hasta creación de paneles interactivos de BI.
+## 🎓 Título Académico
+1. **Nombre de la Institución:** [Universidad de Oriente Nucleo de Nueva Esparta, Isla de Margarita- Venezuela]
+ - **Título Obtenido:** [Licenciada en Estadística]
+ - **Fecha de Graduación:** [Octubre 2009]
 
-* ### *Sobre Mí:*
-Obtén un vistazo personal de mi trayectoria, experiencias y lo que me impulsa en el mundo del análisis de datos.
+*Un Licenciado en Estadística es un profesional con una formación académica sólida
+en el campo de la estadística, una rama de las matemáticas aplicadas que se centra 
+en la recopilación, análisis e interpretación de datos. Está capacitado para aplicar
+métodos estadísticos en diversas disciplinas, como ciencias sociales, ciencias naturales, 
+negocios, salud y tecnología.*
 
-## 📊 Mis logros hasta ahora:
+*Es un experto en el manejo y análisis de datos, con la capacidad de utilizar herramientas 
+estadísticas para extraer información valiosa y respaldar la toma de decisiones en una 
+variedad de sectores. Este profesional desempeña un papel crucial en la generación 
+de conocimiento basado en evidencia y en la solución de problemas complejos a través 
+del análisis estadístico*
 
-+ Mi experiencia se basa en más de 6 años de trabajo en roles relacionados con la estadística y el análisis de datos.
-+ He liderado proyectos donde la extracción de datos era esencial para construir indicadores clave de desempeño (KPI) y proporcionar información valiosa para la toma de decisiones.
-+ Implementé procesamientos de registros con automatizaciones en Looker Studio y App Script. Esta iniciativa no solo mejoró significativamente la eficiencia en la gestión de datos, sino que también optimizó la extracción de información clave para el seguimiento y la evaluación.
-+ He propuesto metodologías y modelos para identificar, medir y reportar el riesgo de crédito. Esto implicó la extracción y procesamiento de datos para evaluar cambios en el riesgo, así como la actualización de la documentación de sistemas de riesgo para mejorar el seguimiento de cartera.
-+ Participé activamente en comunidades de datos, compartiendo conocimientos y aprendiendo de otros profesionales.
 
-## 💡 Mi enfoque: 
-Cada proyecto es una oportunidad para aprender y crecer. Creo en la narrativa de los datos y la capacidad de estos para impulsar decisiones informadas. ¿Listo para explorar el mundo de los datos conmigo?
+2. **Nombre de la Institución:** [Universidad Simón Bolivar, Caracas- Venezuela] 
+ - **Título Obtenido:** [Magister en Estadística] 
+ - **Fecha de Graduación:** [Octubre 2015 sin culminar]
+   
 
-## 📫 ¡Conéctate conmigo!
+## 📓 Formación complementaria
+- **Nombre de la Institución:** [Data Mining Consulting (DMC)- Lima, Perú]
+- **Nombre de la Certificación:** [PEA- Programa de Especialización Analítica: DATA SCIENCE FUNDAMENTALS]
+- **Fecha de Obtención:** [Enero 2020]
 
-* LinkedIn: www.linkedin.com/in/salabori 
-* GitHub: 
 
-¡Espero que disfrutes explorando mi trabajo y descubriendo cómo los datos pueden contar historias impactantes!
+
+## 📚 Cursos
+- **Scrum Master Esencial: Fundamentos Sólidos y Efectivos**
+  - **Plataforma:** [Udemy]
+  - **Fecha de Completado:** [Marzo 2021]  
+
+- **Microsoft Power BI**
+  - **Plataforma:** [Udemy]
+  - **Fecha de Completado:** [Febrero 2021] 
+
+- **Con Trello organiza tus proyectos de forma profesional**
+  - **Plataforma:** [Udemy]
+  - **Fecha de Completado:** [Febrero 2021]  
+
+- **Organización del Tiempo de manera efectiva**
+  - **Plataforma:** [Udemy]
+  - **Fecha de Completado:** [Mayo 2020] 
+
+- **Dashboards en Excel**
+  - **Nombre de la Institución:** [Data Mining Consulting (DMC)- Lima, Perú]
+  - **Fecha de Completado:** [Septiembre 2019]
+
+- **¡Business Intelligence para todos!**
+  - **Plataforma:** [Udemy]
+  - **Fecha de Completado:** [Junio 2019] 
+
+- **Proyección y Modelaje de Estados Financieros Y Flujo de Caja**
+  - **Plataforma:** [Tecnología Financiera]
+  - **Fecha de Completado:** [Junio 2016]
+  
+- **Curso Pentaho BI 5.02.**
+  - **Nombre de la Institución:** [GlobalThech]
+  - **Fecha de Completado:** [octubre 2014]
+
+- **Access básico**
+  - **Plataforma:** [Sistema Nacional de Adiestramiento]
+  - **Fecha de Completado:** [Octubre 2014]
+  
+- **Excel Avanzado**
+  - **Plataforma:** [Centro de Estudios Tecnológicos Avanzados]
+  - **Fecha de Completado:** [Noviembre 2013] 
+  
