@@ -1,7 +1,4 @@
----
-title: "Educación"
-output: word_document
----
+# "Educación"
 
 
 <div class="aligncenter"> 
