@@ -28,7 +28,7 @@ Cada proyecto es una oportunidad para aprender y crecer. Creo en la narrativa de
 
 ## 📫 ¡Conéctate conmigo!
 
-* [LinkedIn](www.linkedin.com/in/salabori)
+* [LinkedIn](www.linkedin.com/in/salabori) 
 * GitHub: 
 
 ¡Espero que disfrutes explorando mi trabajo y descubriendo cómo los datos pueden contar historias impactantes!
