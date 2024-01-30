@@ -1,4 +1,5 @@
-# Habilidades
+#  ![image](https://github.com/anaile19/Portafolio/assets/99445538/cde79308-3af1-4bcf-bf64-a7082ab48e69)
+Habilidades
 
 ## Resumen
 **Licenciada en Estadística egresada de Maestría en Estadísticas Bayesianas, con más de diez años de experiencia en construcción, desarrollo y gestión de información para indicadores clave de desempeño (KPI). Experto en análisis estadístico utilizando herramientas como SPSS, R y Python. Amplia experiencia en construcción de tableros con Excel, Power BI y Looker Studio. Habilidades destacadas incluyen liderazgo, trabajo en equipo, adaptabilidad al cambio y orientación a resultados.**
