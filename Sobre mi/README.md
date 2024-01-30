@@ -12,9 +12,9 @@
 
 ## Mis Intereses
 
-- **Desarrollo Comunitario:** Actualmente, soy miembro activa de R-ladies Lima, donde participo, contribuyo y aprendo de otras profesionales apasionados/as por el análisis de datos.
+- **Desarrollo Comunitario:** Actualmente, soy miembro activa de **R-ladies Lima**, donde participo, contribuyo y aprendo de otras profesionales apasionados/as por el análisis de datos.
 
-- **Proyectos Personales:** Fuera del ámbito laboral, dedico tiempo a proyectos que me permiten reinventarme. Uno de mis pasatiempos favoritos es el **punch needle (bordado con aguja mágica), el crochet y el palillo.** Mantengo un pequeño emprendimiento en Instagram donde dejo volar mi creatividad utilizando estas técnicas. Este espacio no solo me brinda momentos de relajación, sino que también me ayuda a concentrarme en nuevos objetivos y proyectos. 
+- **Proyectos Personales:** Fuera del ámbito laboral, dedico tiempo a proyectos que me permiten reinventarme. Uno de mis pasatiempos favoritos es el *punch needle (bordado con aguja mágica), el crochet y el palillo.* Mantengo un pequeño emprendimiento en Instagram donde dejo volar mi creatividad utilizando estas técnicas. Este espacio no solo me brinda momentos de relajación, sino que también me ayuda a concentrarme en nuevos objetivos y proyectos. 
 
 ## Cómo Contactarme
 
