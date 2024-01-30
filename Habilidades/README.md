@@ -27,7 +27,7 @@
   - Looker Studio (Intermedio)
   - Excel (Avanzado)
 
-## Herramientas y Tecnologías
+## 🛠️ Herramientas y Tecnologías
 
 - **Bases de Datos:**
   - MySQL
