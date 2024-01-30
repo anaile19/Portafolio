@@ -1,8 +1,4 @@
-# "Educación"
-
-
-<div class="aligncenter"> 
-![](Portafolio/Educación/Educación/Imgs/pngegg.png)
+# Educación
 
 
 ## 🎓 Título Académico
