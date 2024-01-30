@@ -1,11 +1,10 @@
-#  ![image](https://github.com/anaile19/Portafolio/assets/99445538/cde79308-3af1-4bcf-bf64-a7082ab48e69)
-Habilidades
+# 👩🏽‍💻 Habilidades
 
 ## Resumen
 **Licenciada en Estadística egresada de Maestría en Estadísticas Bayesianas, con más de diez años de experiencia en construcción, desarrollo y gestión de información para indicadores clave de desempeño (KPI). Experto en análisis estadístico utilizando herramientas como SPSS, R y Python. Amplia experiencia en construcción de tableros con Excel, Power BI y Looker Studio. Habilidades destacadas incluyen liderazgo, trabajo en equipo, adaptabilidad al cambio y orientación a resultados.**
 
 
-## Habilidades Técnicas
+## 👩🏽‍🏫 Habilidades Técnicas
 
 - **Lenguajes de Programación:**
   - R (Intermedio)
@@ -45,13 +44,13 @@ Habilidades
   - App Script (Básico)
   - Trello
 
-## Idiomas
+## 🗣️ Idiomas
 
 - Español (Nativo)
 - Inglés (A1)
 
 
-## Voluntariado
+## 🫱🏾‍🫲🏼 Voluntariado
 
 - R-Ladies Lima | abril 2022 – actualidad
 - Fenómeno El Niño 2011 en Venezuela (FUNDACREDESA) | diciembre 2011
