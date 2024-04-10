@@ -1,5 +1,5 @@
 # Descripción: 
-¡Bienvenido a mi portafolio! Soy Eliana, una apasionada Analista de Datos, Científico de Datos y Especialista en Business Intelligence. Mi objetivo es transformar datos en conocimientos significativos y soluciones impactantes.
+¡Bienvenido a mi portafolio! Soy Eliana, una apasionada Analista de Datos, Científico de Datos y Business Intelligence. Mi objetivo es transformar datos en conocimientos significativos y soluciones impactantes.
 
 ## 🚀 Lo que encontrarás aquí:
 
