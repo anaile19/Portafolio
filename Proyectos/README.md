@@ -19,7 +19,7 @@ Este proyecto fue desarrollado como parte del Programa de Especialización Anal�
 - Recomendación de realizar un análisis exploratorio más detallado considerando variables adicionales como sexo, edad e ingresos para obtener una descripción más precisa de los perfiles de los clientes.
 
 ### Enlace al Proyecto
-[Enlace al repositorio del proyecto o a la página/web del proyecto si está disponible]
+[Proyecto_1](https://github.com/anaile19/Portafolio/blob/b1fe1024ec9026db938d1488dc58f848d5b119da/Proyectos/Proyecto1/Segmentaci%C3%B3n%20K-Means.ipynb)
 
 ## [Análisis de Fuga de Empleados: Una Simulación de Investigación como Científico de Datos]
 
