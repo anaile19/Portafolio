@@ -29,7 +29,7 @@ Durante una simulación de una semana actuando como Científico de Datos en DS4B
 ### Tecnologías Utilizadas
 - Lenguajes de Programación: [Python, Google Colab]
 - Librerias: [Pandas, Numpy, Matplotlib, Sklearn.tree]
-- Herramientas de BI: [Tableau]
+- Herramientas de BI: [Tableau](https://public.tableau.com/views/PracticaDashboard_17098436278170/Dashboard1?:language=es-ES&:sid=&:display_count=n&:origin=viz_share_link)
 - Bases de Datos: [Base proporcionada por DS4B (AbandonoEmpleados)]
 
 
