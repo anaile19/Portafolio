@@ -39,7 +39,7 @@ Durante una simulación de una semana actuando como Científico de Datos en DS4B
 - Calcuo y estimación del impacto económico de la fuga de empleados, lo que permitió a la empresa comprender mejor los costos asociados y tomar medidas proactivas para mitigarlos.
 
 ### Enlace al Proyecto
-[Enlace al repositorio del proyecto o a la página/web del proyecto si está disponible]
+[Proyecto_2](https://github.com/anaile19/Portafolio/tree/814f3eac7a4057ddf810946dd43267cb6f588413/Proyectos/Proyecto2)
 
 ...
 
