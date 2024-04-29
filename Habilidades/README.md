@@ -8,8 +8,8 @@
 
 - **Lenguajes de Programación:**
   - R (Intermedio)
-  - Python (Básico)
-  - SQL (Básico)
+  - Python (Intermedio)
+  - SQL (Intermedio)
 
 - **Análisis de Datos:**
   - Recolección de datos
