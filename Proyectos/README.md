@@ -4,6 +4,9 @@ En esta carpeta, encontrarás información detallada sobre algunos de los proyec
 
 ## [Segmentación de Clientes por Preferencias de Consumo: Un Análisis de Transacciones con Tarjetas de Crédito y Débito]
 
+![Segmento](img/segmentacion.png)
+
+
 ### Descripción
 Este proyecto fue desarrollado como parte del Programa de Especialización Analítica, específicamente como una asignación dentro de la materia de Métodos no Paramétricos. Utilizando técnicas aprendidas en el programa, se analizaron las preferencias de consumo de los clientes basándose en sus transacciones con tarjetas de crédito y débito, aplicando el algoritmo de agrupamiento K-means para segmentar clientes y identificar patrones de comportamiento de gasto.
 
@@ -22,6 +25,8 @@ Este proyecto fue desarrollado como parte del Programa de Especialización Anal�
 [Proyecto_1](https://github.com/anaile19/Portafolio/tree/7a9a0624d17c97e6ccb4328092b4754759a7943a/Proyectos/Proyecto1) 
 
 ## [Análisis de Fuga de Empleados: Una Simulación de Investigación como Científico de Datos]
+
+![Segmento](img/fuga.png)
 
 ### Descripción
 Durante una simulación de una semana actuando como Científico de Datos en DS4B, llevé a cabo un análisis exhaustivo de la fuga de empleados en una empresa. Utilizando técnicas de minería de datos y análisis predictivo, examiné patrones y tendencias en los datos de recursos humanos para identificar factores clave que contribuyen a la rotación del personal.
