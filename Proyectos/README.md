@@ -26,7 +26,7 @@ Este proyecto fue desarrollado como parte del Programa de Especialización Anal�
 
 ## [Análisis de Fuga de Empleados: Una Simulación de Investigación como Científico de Datos]
 
-![Segmento](img/fuga.png)
+![Segmento](img/Fuga.png)
 
 ### Descripción
 Durante una simulación de una semana actuando como Científico de Datos en DS4B, llevé a cabo un análisis exhaustivo de la fuga de empleados en una empresa. Utilizando técnicas de minería de datos y análisis predictivo, examiné patrones y tendencias en los datos de recursos humanos para identificar factores clave que contribuyen a la rotación del personal.
