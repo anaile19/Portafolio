@@ -26,7 +26,7 @@
 
 ## Dashboard
 
-[Dashboard en Tableau Public](https://public.tableau.com/views/Riesgodefugadeempleados/Dashboard1): tasa de abandono, empleados en riesgo y costo esperado por puesto.
+[Dashboard en Tableau Public](https://public.tableau.com/views/Riesgodefugadeempleados/Dashboard1): Empleados activos, empleados en riesgo y costo esperado por puesto.
 
 ## Limitaciones
 
