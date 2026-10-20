@@ -17,11 +17,10 @@ Proyectos de análisis de datos, estadística aplicada y business intelligence. 
 - **03:** proyecto propio con datos públicos de Lending Club (Kaggle).
 
 ## Estructura
-
     proyectos/
-    ├── 01-segmentacion-clientes/   notebook + componentes PCA (Excel)
-    └── 02-fuga-empleados/          notebook + captura del dashboard
-    └── 03-riesgo-crediticio/       notebook + captura del dashboard + pbix + ipynb + demo
+    ├── 01-segmentacion-clientes/   notebook
+    ├── 02-fuga-empleados/          notebook + captura del dashboard
+    └── 03-riesgo-crediticio/       notebook + dashboard Power BI (.pbix) + captura + video
 
 ## Contacto
 
