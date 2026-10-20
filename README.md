@@ -8,17 +8,20 @@ Proyectos de análisis de datos, estadística aplicada y business intelligence. 
 |---|---|---|---|---|
 | 01 | [Segmentación de clientes bancarios](proyectos/01-segmentacion-clientes) | ¿Qué preferencias de consumo tienen los clientes según sus transacciones con tarjeta de crédito y débito? | Python (Pandas, Scikit-learn), K-Means, PCA | Notebook con perfiles de consumo en 21 rubros comerciales |
 | 02 | [Predicción de fuga de empleados](proyectos/02-fuga-empleados) | ¿Qué perfil de empleado deja la empresa y cuánto cuesta la rotación? | Python (Pandas, Scikit-learn), regresión logística, Tableau | Notebook, scoring de riesgo por empleado y [dashboard en Tableau Public](https://public.tableau.com/views/Riesgodefugadeempleados/Dashboard1) |
+| 03 | [Riesgo crediticio de una cartera de préstamos](proyectos/03-riesgo-crediticio) | ¿Qué segmentos concentran el mayor riesgo de incumplimiento? | Python (Pandas), Power BI, DAX | Notebook de limpieza, dashboard en Power BI y video explicativo |
 
 ## Origen de los proyectos
 
 - **01:** trabajo del Programa de Especialización Analítica – Data Science Fundamentals (DMC, 2020), con datos proporcionados por el programa.
 - **02:** basado en el caso *Tu primera semana como Data Scientist* de DS4B, con datos del curso.
+- **03:** proyecto propio con datos públicos de Lending Club (Kaggle).
 
 ## Estructura
 
     proyectos/
     ├── 01-segmentacion-clientes/   notebook + componentes PCA (Excel)
     └── 02-fuga-empleados/          notebook + captura del dashboard
+    └── 03-riesgo-crediticio/       notebook + captura del dashboard + pbix + ipynb + demo
 
 ## Contacto
 
